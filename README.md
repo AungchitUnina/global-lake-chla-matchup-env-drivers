@@ -33,9 +33,9 @@ Relevant water quality databases include:
 | :--- | :--- | :--- | :--- |
 | The Water Quality Database for Global Lakes | Global | [https://github.com/roohollahnoori/AWQDFGL/](https://github.com/roohollahnoori/AWQDFGL/) (accessed 20 February 2024) | Naderian et al., 2024 |
 | Global Freshwater Quality Global Database (GEMStat) | Global | [https://gemstat.org/data-gemstat/](https://gemstat.org/data-gemstat/) (accessed 7 June 2024) | Arias-Rodriguez et al., 2023 |
-| Water Quality Portal (WQP) | United States | [https://www.waterqualitydata.us/](https://www.waterqualitydata.us/) (accessed 15 June 2024) | - |
-| European Environment Agency (EEA) Waterbase | Europe | [https://www.eea.europa.eu/en/](https://www.eea.europa.eu/en/) (accessed 28 July 2024) | - |
-| Open Government Portal of Canada | Canada | [https://search.open.canada.ca/opendata/](https://search.open.canada.ca/opendata/) (accessed 12 July 2024) | - |
+| Water Quality Portal (WQP) | United States | [https://www.waterqualitydata.us/](https://www.waterqualitydata.us/) (accessed 15 June 2024) | Arias-Rodriguez et al., 2023 |
+| European Environment Agency (EEA) Waterbase | Europe | [https://www.eea.europa.eu/en/](https://www.eea.europa.eu/en/) (accessed 28 July 2024) | Arias-Rodriguez et al., 2023 |
+| Open Government Portal of Canada | Canada | [https://search.open.canada.ca/opendata/](https://search.open.canada.ca/opendata/) (accessed 12 July 2024) | Arias-Rodriguez et al., 2023 |
 | Datalakes | Switzerland | [https://www.datalakes-eawag.ch/](https://www.datalakes-eawag.ch/) (accessed 5 May 2024) | - |
 
 ### Environmental Driver Data
